@@ -6,7 +6,7 @@
 
 ## **Introduction**
 
-Welcome to **AI-SOL**, the ultimate AI tax wizard for the crypto generation! Inspired by recent headlines ([see reference]([#reference](https://www.justice.gov/opa/pr/early-bitcoin-investor-sentenced-filing-tax-returns-falsely-reported-his-cryptocurrency))) about how tax mistakes can lead to serious trouble, **AI-SOL** is here to bring clarity and strategy to your financial life. Whether you’re dealing with crypto, NFTs, or traditional income, AI-SOL combines the power of cutting-edge AI and the fun of memecoins to optimize your taxes and maximize your savings—all while staying 100% compliant.
+Welcome to **AI-SOL**, the ultimate AI tax wizard for the crypto generation! Inspired by recent headlines [see reference](https://www.justice.gov/opa/pr/early-bitcoin-investor-sentenced-filing-tax-returns-falsely-reported-his-cryptocurrency) about how tax mistakes can lead to serious trouble, **AI-SOL** is here to bring clarity and strategy to your financial life. Whether you’re dealing with crypto, NFTs, or traditional income, AI-SOL combines the power of cutting-edge AI and the fun of memecoins to optimize your taxes and maximize your savings—all while staying 100% compliant.
 
 But that’s not all: **AI-SOL is also a community-driven project where token holders share in the platform’s success!** By holding our $AISOL token, you’re not just using the wizard—you’re part of the magic. With revenue sharing, governance voting, and staking rewards, the more AI-SOL grows, the more value flows back to you.
 
